@@ -1,6 +1,6 @@
 # 30 Days of Flutter
 
-[Flutter 30 days of code](https://www.udemy.com/share/101WB6AEocdVxTTHg=/) from [Dr. Angela Yu](https://www.udemy.com/course/flutter-bootcamp-with-dart/#instructor-1)
+[Flutter 30 days of code](https://github.com/londonappbrewery/Flutter-Course-Resources) from [Dr. Angela Yu](https://www.udemy.com/course/flutter-bootcamp-with-dart/#instructor-1)
 
 ## Rules
 Do the following **every day** for **30 days**:
@@ -13,8 +13,8 @@ Do the following **every day** for **30 days**:
 
 | Day | Course | Description |
 |:---:|--------|-------------|
-|1| Intro | Introduction to Cross-Platform Development with Flutter and Dart |
-|2| Setup and Installation | Setup and Installation prerequisites for Flutter Development |
+|1| [Intro](https://github.com/fadhilhaka/30-Days-of-Flutter/tree/main/Day%201) | Introduction to Cross-Platform Development with Flutter and Dart |
+|2| [Setup and Installation](https://github.com/fadhilhaka/30-Days-of-Flutter/tree/main/Day%202) | Setup and Installation, prerequisites for Flutter Development |
 |3| Create Flutter Apps From Scratch | I Am Rich app |
 |4| Running on a Physical Device | Running Your App on a Physical Device |
 |5| App Challenge | I Am Poor app |
