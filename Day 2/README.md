@@ -9,6 +9,7 @@
 5. Test the iOS Simulator
 
 [Fix "unable to locate adb"](https://stackoverflow.com/questions/39036796/unable-to-locate-adb-using-android-studio)
+
 [Fix Simulator not detected](https://stackoverflow.com/questions/50318475/flutter-not-connecting-to-ios-simulator-in-android-studio/63597354)
 
 [Setup PATH for Catalina](https://stackoverflow.com/questions/17901692/set-up-adb-on-mac-os-x)
