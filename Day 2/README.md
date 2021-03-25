@@ -35,3 +35,5 @@ export PATH="$PATH:$ANDROID_HOME/platform-tools"
 3. Install the Android Emulator
 
 ## [Setup for Linux](https://flutter.dev/docs/get-started/install/linux)
+
+[Dart Documentation](https://dart.dev/guides)
