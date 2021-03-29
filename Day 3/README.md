@@ -52,7 +52,7 @@ flutter:
 ~~~
 
 >NOTE
->>Be really carefull about indentation in **yaml** file.
+>>Be really carefull about indentation in **yaml** file. Yaml use  2-space indentation for parent-child relation.
 
 ### App Structure
 
