@@ -43,7 +43,7 @@ The AppBar displays the toolbar widgets, leading, title, and actions, above the 
 
 A widget that displays an image.
 
-To make image asset usable, **pubspec.yaml** need to be updated by adding asset and its path:
+To make image asset usable, **pubspec.yaml** need to be updated by adding **assets** and its path:
 
 ~~~
 flutter:
@@ -54,7 +54,7 @@ flutter:
 >NOTE
 >>Be really carefull about indentation in **yaml** file. Yaml use  2-space indentation for parent-child relation.
 
-### App Structure
+### I Am Rich App Structure
 
 ![alt text](images/App%20Structure.png)
 
