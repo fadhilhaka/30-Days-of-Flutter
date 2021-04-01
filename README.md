@@ -17,7 +17,7 @@ Do the following **every day** for **30 days**:
 |2| [Setup and Installation](https://github.com/fadhilhaka/30-Days-of-Flutter/tree/main/Day%202) | Setup and Installation, prerequisites for Flutter Development |
 |3| [Create Flutter Apps From Scratch](https://github.com/fadhilhaka/30-Days-of-Flutter/tree/main/Day%203) | I Am Rich app |
 |4| [Running on a Physical Device](https://github.com/fadhilhaka/30-Days-of-Flutter/tree/main/Day%204) | Running Your App on a Physical Device |
-|5| App Challenge | I Am Poor app |
+|5| [App Challenge](https://github.com/fadhilhaka/30-Days-of-Flutter/tree/main/Day%205) | I Am Poor app |
 |6| Flutter Widgets | MiCard app |
 |7| Stateful app | Dicee app, part one |
 |8|  | Dicee app, part two |
