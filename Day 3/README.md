@@ -54,6 +54,21 @@ flutter:
 >NOTE
 >>Be really carefull about indentation in **yaml** file. Yaml use  2-space indentation for parent-child relation.
 
+## Setup App Icon
+
+* Prepare icon image with 1024x1024 resolution.
+* Go to appicon.co (or similar site) to get android and ios icon.
+* For android: in android studio go to -> android-app-src-main-res -> Show in finder -> remove all folder with prefix 'mipmap' -> replace with downloaded 'mipmap' folders.
+* For ios: in android studio go to -> ios-Runner -> Show in finder -> remove Assets.xcassets folder -> replace with downloaded Assets.xcassets folder
+
+## Styling App Icon fo Android
+
+* Go to -> android-app-src-main-res -> Right click -> New -> Image Asset
+* This will open Configure Image Asset window.
+* On Foreground Layer tab, find 'path' -> click folder icon.
+* Pick icon image (the one with 1024x1024 resolution) -> Open
+* Then you can resize the image to the preferred styling size.
+
 ### I Am Rich App Structure
 
 ![alt text](images/App%20Structure.png)

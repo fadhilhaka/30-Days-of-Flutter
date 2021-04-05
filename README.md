@@ -19,7 +19,7 @@ Do the following **every day** for **30 days**:
 |4| [Running on a Physical Device](https://github.com/fadhilhaka/30-Days-of-Flutter/tree/main/Day%204) | Running Your App on a Physical Device |
 |5| [App Challenge](https://github.com/fadhilhaka/30-Days-of-Flutter/tree/main/Day%205) | I Am Poor app |
 |6| [Flutter Widgets](https://github.com/fadhilhaka/30-Days-of-Flutter/tree/main/Day%206) | MiCard app |
-|7| Stateful app | Dicee app, part one |
+|7| [Stateful App](https://github.com/fadhilhaka/30-Days-of-Flutter/tree/main/Day%207) | Dicee app, part one |
 |8|  | Dicee app, part two |
 |9| Boss Level Challenge 1 | Magic 8 Ball app |
 |10|  | - |
