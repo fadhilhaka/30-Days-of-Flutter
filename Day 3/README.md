@@ -1,5 +1,9 @@
 # I Am Rich app
 
+|                        |
+|:----------------------:|
+| ![](images/img_1.png)  |
+
 ## Creating Flutter app from scratch
 
 What you'll come to notice while you're creating Flutter apps is that there are widgets that fulfill almost every role. 

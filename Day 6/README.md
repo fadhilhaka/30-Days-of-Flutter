@@ -1,5 +1,9 @@
 # Flutter Widgets - [MiCard app](https://github.com/londonappbrewery/mi_card_flutter)
 
+|                        |
+|:----------------------:|
+| ![](images/img_1.png)  |
+
 ## Android Project Migration
 
 [Upgrading pre 1.12 Android projects](https://flutter.dev/go/android-project-migration)
