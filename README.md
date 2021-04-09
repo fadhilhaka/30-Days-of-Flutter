@@ -22,8 +22,8 @@ Do the following **every day** for **30 days**:
 |7| [Stateful App](https://github.com/fadhilhaka/30-Days-of-Flutter/tree/main/Day%207-8) | Dicee app, part one |
 |8|  | Dicee app, part two |
 |9| [Boss Level Challenge 1](https://github.com/fadhilhaka/30-Days-of-Flutter/tree/main/Day%209) | Magic 8 Ball app |
-|10|  | - |
-|11|  | - |
+|10| [Xylophone App](https://github.com/fadhilhaka/30-Days-of-Flutter/tree/main/Day%2010-11) | Using Flutter and Dart Packages to Speed Up Development, part one |
+|11|  | Using Flutter and Dart Packages to Speed Up Development, part two  |
 |12|  | - |
 |13|  | - |
 |14|  | - |
