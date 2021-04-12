@@ -23,10 +23,10 @@ Do the following **every day** for **30 days**:
 |8|  | Dicee app, part two |
 |9| [Boss Level Challenge 1](https://github.com/fadhilhaka/30-Days-of-Flutter/tree/main/Day%209) | Magic 8 Ball app |
 |10| [Xylophone App](https://github.com/fadhilhaka/30-Days-of-Flutter/tree/main/Day%2010-11) | Using Flutter and Dart Packages to Speed Up Development, part one |
-|11|  | Using Flutter and Dart Packages to Speed Up Development, part two  |
-|12|  | - |
-|13|  | - |
-|14|  | - |
+|11|  | Using Flutter and Dart Packages to Speed Up Development, part two |
+|12| [Quizzler App](https://github.com/fadhilhaka/30-Days-of-Flutter/tree/main/Day%2012-14) | Modularising & Organising Flutter Code, part one |
+|13|  | Modularising & Organising Flutter Code, part two |
+|14|  | Modularising & Organising Flutter Code, part three |
 |15|  | - |
 |16|  | - |
 |17|  | - |
